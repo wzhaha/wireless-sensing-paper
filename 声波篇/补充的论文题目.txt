@@ -1,0 +1,15 @@
+报道：http://www.sohu.com/a/235506343_473283
+
+https://ieeexplore.ieee.org/abstract/document/8486283
+LipPass: Lip Reading-based User Authentication on Smartphones Leveraging Acoustic Signals
+
+https://dl.acm.org/citation.cfm?SoundTrak: Continuous 3D Tracking of a Finger Using Active Acoustics
+
+https://ieeexplore.ieee.org/abstract/document/8486285
+WordRecorder: Accurate Acoustic-based Handwriting Recognition Using Deep Learning
+
+https://dl.acm.org/citation.cfm?id=3300248
+MilliSonic: Pushing the Limits of Acoustic Motion Tracking
+
+https://ieeexplore.ieee.org/abstract/document/8397157
+iPand: Accurate Gesture Input with Smart Acoustic Sensing on Hand
