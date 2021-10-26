@@ -1,0 +1,55 @@
+==+== ICPADS'21 Review Form
+==-== DO NOT CHANGE LINES THAT START WITH "==+==" OR "==*==".
+==-== For further guidance, or to upload this file when you are done, go to:
+==-== http://ieee-icpads.net/2021/hotcrp.com/offline
+
+==+== =====================================================================
+==+== Begin Review #216
+==+== Reviewer: Fusang Zhang <fusang@iscas.ac.cn>
+
+==+== Paper #216
+==-== Title: Indoor sneezing and coughing detection based on COTS wireless
+==-==        device
+
+==+== Review Readiness
+==-== Enter "Ready" if the review is ready for others to see:
+
+Ready
+
+==*== Overall merit
+==-== Choices:
+==-==    1. Reject
+==-==    2. Weak reject
+==-==    3. Weak accept
+==-==    4. Accept
+==-==    5. Strong accept
+==-== Enter the number of your choice:
+
+(Your choice here)
+
+==*== Reviewer expertise
+==-== Choices:
+==-==    1. No familiarity
+==-==    2. Some familiarity
+==-==    3. Knowledgeable
+==-==    4. Expert
+==-== Enter the number of your choice:
+
+(Your choice here)
+
+==*== Paper summary
+
+
+
+==*== Comments for author
+
+
+
+==*== Comments for PC
+==-== (hidden from authors)
+
+
+
+==+== Scratchpad (for unsaved private notes)
+
+==+== End Review
